@@ -15,6 +15,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## GitHub Stats
+# [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
+
+<!--
+https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
+-->
+<a href="https://github.com/jstrieb/github-stats">
+<img src="https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
+<img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
+</a>
+
+Generate visualizations of GitHub user and repository statistics with GitHub
+Actions. Visualizations can include data for both private repositories, and for
+repositories you have contributed to, but do not own.
+
+Generated images automatically switch between GitHub light theme and GitHub
+dark theme.
+
 
 <h1 align="center">Hi 👋, I'm H-Daoud</h1>
 <h3 align="center">Machine Learning Engineer | Computer Vision | AI Enthusiast</h3>
@@ -65,9 +84,5 @@ I specialize in real-time object detection, tracking, and scalable data engineer
 </p>
 
 ---
-
-
-
-![H-Daoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=H-Daoud&show_icons=true&theme=radical)
 
 Thanks for visiting my profile! Feel free to explore my repos and reach out.
