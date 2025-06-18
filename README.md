@@ -1,5 +1,5 @@
 <h2> Hello  👋 , and welcome! I'm H-Daoud </h2>
-<a href= "https://iq.aws/e/H-Daoud">
+📫 Reach me via <a href= "https://iq.aws/e/H-Daoud">
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white"/>
 </a>
 <a href= "https://www.linkedin.com/in/daoud1001">
