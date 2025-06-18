@@ -24,8 +24,7 @@
 
 ---
 ## About Me
-I’m a Machine Learning Engineer passionate about building production-ready AI solutions using Python, PyTorch, TensorFlow, and cutting-edge computer vision techniques.  
-I specialize in real-time object detection, tracking, and scalable data engineering pipelines.
+I’m a Machine Learning Engineer passionate about building production-ready AI solutions using Python, PyTorch, TensorFlow, and cutting-edge computer vision techniques. I specialize in real-time object detection, tracking, and scalable data engineering pipelines.
 
 - 🔭 Currently working on deploying deep learning models for video analytics and edge devices  
 - 🌱 Continuously learning and applying the latest AI research in production environments  
