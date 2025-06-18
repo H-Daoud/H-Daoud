@@ -1,4 +1,5 @@
-<h2> Hello, and welcome!</h2>
+<h2> Hello  👋 , and welcome!</h2>
+<h3 align="center">Machine Learning Engineer | Computer Vision | AI Enthusiast</h3>
 <a href= "https://iq.aws/e/H-Daoud">
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white"/>
 </a>
@@ -11,11 +12,6 @@
 <br>
 <br>
 
-![](https://raw.githubusercontent.com/H-Daoud/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
-<img width="45%" align="right" alt="Github" src="./imgs/aws.svg" />
-
-<h1 align="center">Hi 👋 😄 , I'm H-Daoud</h1>
 <h3 align="center">Machine Learning Engineer | Computer Vision | AI Enthusiast</h3>
 ---
 <p align="center">
