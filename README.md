@@ -61,3 +61,9 @@ I’m a Machine Learning Engineer passionate about building production-ready AI 
 ---
 
 Thanks for visiting my profile! Feel free to explore my repos and reach out.
+
+If you like or enjoy what I do, maybe you'd be kind enough to sponsor 😬
+
+<a href="https://github.com/sponsors/H-Daoud" target="_blank">
+  <img src="https://img.shields.io/badge/-Sponsor-fafbfc?logo=GitHub%20Sponsors" width="100"/>
+</a>
