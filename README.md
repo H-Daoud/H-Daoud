@@ -21,8 +21,6 @@
 <p align="center">
   🔭 Currently working on deploying deep learning models for video analytics and edge devices<br>
   🌱 Continuously learning and applying the latest AI research in production<br>
-  📫 Reach me via <a href="https://www.linkedin.com/in/daoud1001/">LinkedIn</a> | <a href="https://www.kaggle.com/hassaandaoud">Kaggle</a>
-    <br> 📫 Reach me via <a href= "https://iq.aws/e/H-Daoud">
 </p>
 
 ---
