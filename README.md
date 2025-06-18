@@ -1,5 +1,4 @@
 <h2> Hello  👋 , and welcome! I'm H-Daoud </h2>
-📫 Reach me via <a href= "https://iq.aws/e/H-Daoud">
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white"/>
 </a>
 <a href= "https://www.linkedin.com/in/daoud1001">
@@ -16,7 +15,8 @@
 <p align="center">
   🔭 Currently working on deploying deep learning models for video analytics and edge devices<br>
   🌱 Continuously learning and applying the latest AI research in production<br>
-  📫 Reach me via <a href="https://www.linkedin.com/in/daoud1001/">LinkedIn</a> | <a href="https://www.kaggle.com/hassaandaoud">Kaggle</a><br>
+  📫 Reach me via <a href="https://www.linkedin.com/in/daoud1001/">LinkedIn</a> | <a href="https://www.kaggle.com/hassaandaoud">Kaggle</a>
+    <br> 📫 Reach me via <a href= "https://iq.aws/e/H-Daoud">
 </p>
 
 ---
