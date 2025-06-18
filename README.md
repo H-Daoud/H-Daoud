@@ -14,7 +14,6 @@
 </a>
 </a>
 <br>
-<br>
 
 <h3 align="left">Machine Learning Engineer | Computer Vision | AI Enthusiast</h3>
 
