@@ -1,4 +1,4 @@
-<h2> Hello  👋 , and welcome! I'm H-Daoud </h2>
+<h2> Hello  👋 , and welcome, I'm H-Daoud ! </h2>
 📫 Reach me via
 <a href= "https://iq.aws/e/H-Daoud">
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white"/>
@@ -16,9 +16,9 @@
 <br>
 <br>
 
-<h3 align="center">Machine Learning Engineer | Computer Vision | AI Enthusiast</h3>
+<h3 align="left">Machine Learning Engineer | Computer Vision | AI Enthusiast</h3>
 
-<p align="center">
+<p align="left">
   🔭 Currently working on deploying deep learning models for video analytics and edge devices<br>
   🌱 Continuously learning and applying the latest AI research in production<br>
 </p>
