@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm H-Daoud</h1>
+
+<h1 align="center">Hi 👋 😄 , I'm H-Daoud</h1>
 <h3 align="center">Machine Learning Engineer | Computer Vision | AI Enthusiast</h3>
 
 ---
