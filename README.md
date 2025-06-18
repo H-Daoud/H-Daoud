@@ -12,7 +12,7 @@
 <br>
 <h1 align="center">Hi 👋 😄 , I'm H-Daoud</h1>
 <h3 align="center">Machine Learning Engineer | Computer Vision | AI Enthusiast</h3>
----
+
 ![](https://raw.githubusercontent.com/H-Daoud/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 <img width="45%" align="right" alt="Github" src="./imgs/aws.svg" />
