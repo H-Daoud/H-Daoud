@@ -9,7 +9,7 @@
 <a href= "mailto:aitech.0777@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"/>
 </a>
-<a href="https://www.kaggle.com/hassaandaoud">Kaggle
+<a href="https://www.kaggle.com/hassaandaoud">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white"/>
 </a>
 </a>
