@@ -1,4 +1,15 @@
-
+<h2> Hello, and welcome!</h2>
+<a href= "https://iq.aws/e/H-Daoud">
+    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white"/>
+</a>
+<a href= "https://www.linkedin.com/in/daoud1001">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+</a>
+<a href= "mailto:aitech.0777@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"/>
+</a>
+<br>
+<br>
 <h1 align="center">Hi 👋 😄 , I'm H-Daoud</h1>
 <h3 align="center">Machine Learning Engineer | Computer Vision | AI Enthusiast</h3>
 
