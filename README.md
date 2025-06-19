@@ -53,7 +53,6 @@ I’m a Machine Learning Engineer passionate about building production-ready AI 
 ---
 
 ## 📊 GitHub Stats
-## 📊 GitHub Stats
 <a href="https://github.com/H-Daoud/github-stats">
   <img src="https://raw.githubusercontent.com/H-Daoud/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
   <img src="https://raw.githubusercontent.com/H-Daoud/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
