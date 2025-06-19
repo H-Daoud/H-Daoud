@@ -53,6 +53,15 @@ I’m a Machine Learning Engineer passionate about building production-ready AI 
 ---
 
 ## 📊 GitHub Stats
+<!--
+https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
+-->
+<a href="https://github.com/H-Daoud/github-stats">
+<img src="https://github.com/H-Daoud/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/H-Daoud/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://github.com/H-Daoud/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
+<img src="https://github.com/H-Daoud/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
+</a>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=H-Daoud&show_icons=true&theme=radical" alt="H-Daoud's GitHub Stats" />
