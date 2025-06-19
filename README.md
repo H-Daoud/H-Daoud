@@ -1,5 +1,5 @@
 <h2> Hello  👋 , and welcome, I'm H-Daoud ! </h2>
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=H-Daoud&show_icons=true&theme=radical" alt="H-Daoud's GitHub Stats" />
 </p>
 📫 Reach me via
