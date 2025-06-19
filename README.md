@@ -1,4 +1,12 @@
 <h2> Hello  👋 , and welcome, I'm H-Daoud ! </h2>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=H-Daoud&show_icons=true&theme=radical" alt="H-Daoud's GitHub Stats" />
+</p>
+
+---
 📫 Reach me via
 <a href= "https://iq.aws/e/H-Daoud">
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white"/>
@@ -49,21 +57,6 @@ I’m a Machine Learning Engineer passionate about building production-ready AI 
 - **Medical Image Segmentation** — Developed Mask R-CNN based segmentation pipelines with COCO-format datasets  
 - **NLP Transformer Models** — Fine-tuned HuggingFace models for domain-specific text classification and extraction  
 - **Data Pipeline Automation** — Built scalable ETL pipelines with Apache Spark and BigQuery integration  
-
----
-
-## 📊 GitHub Stats
-<a href="https://github.com/H-Daoud/github-stats">
-  <img src="https://raw.githubusercontent.com/H-Daoud/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
-  <img src="https://raw.githubusercontent.com/H-Daoud/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
-  <img src="https://raw.githubusercontent.com/H-Daoud/github-stats/master/generated/overview.svg#gh-light-mode-only" />
-  <img src="https://raw.githubusercontent.com/H-Daoud/github-stats/master/generated/languages.svg#gh-light-mode-only" />
-</a>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=H-Daoud&show_icons=true&theme=radical" alt="H-Daoud's GitHub Stats" />
-</p>
 
 ---
 
