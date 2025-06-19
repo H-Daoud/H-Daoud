@@ -5,8 +5,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=H-Daoud&show_icons=true&theme=radical" alt="H-Daoud's GitHub Stats" />
 </p>
-
----
 📫 Reach me via
 <a href= "https://iq.aws/e/H-Daoud">
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white"/>
