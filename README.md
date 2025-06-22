@@ -44,7 +44,7 @@ I’m a Machine Learning Engineer passionate about building production-ready AI 
 - **Deployment:** FastAPI, TensorRT, ONNX, NVIDIA Jetson, OpenVINO, Kubernetes, GCP (Cloud Run, SageMaker)  
 - **Monitoring & CI/CD:** MLflow, GitHub Actions, Jenkins, Streamlit, Gradio  
 
----
+--
 
 ## 📂 Featured Projects
 
