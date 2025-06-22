@@ -1,8 +1,9 @@
 <h2> Hello  👋 , and welcome, I'm H-Daoud ! </h2>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=H-Daoud&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=H-Daoud&show_icons=true&theme=radical%22%20alt=%22H-Daoud%27s%20GitHub%20Stats%22"/>
+  <a href="https://github-readme-stats.vercel.app/api?username=H-Daoud&show_icons=true&theme=radical"</a>
+
   <img src="https://github-readme-stats.vercel.app/api?username=H-Daoud&show_icons=true&theme=radical"/>
-  <a href="https://github-readme-stats.vercel.app/api?username=H-Daoud&show_icons=true&theme=radical">Click here</a>
 </p>
 📫 Reach me via
 <a href= "https://iq.aws/e/H-Daoud">
