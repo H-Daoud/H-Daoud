@@ -1,6 +1,7 @@
 <h2> Hello  👋 , and welcome, I'm H-Daoud ! </h2>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=H-Daoud&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=H-Daoud&show_icons=true&theme=radical"/>
 </p>
 📫 Reach me via
 <a href= "https://iq.aws/e/H-Daoud">
