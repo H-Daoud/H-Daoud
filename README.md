@@ -42,7 +42,7 @@ I’m a Machine Learning Engineer passionate about building production-ready AI 
 - **Computer Vision:** YOLOv8, Detectron2, Mask R-CNN, OpenCV, MediaPipe, Albumentations  
 - **Data Engineering:** Apache Spark, ETL Pipelines, BigQuery, MongoDB  
 - **Deployment:** FastAPI, TensorRT, ONNX, NVIDIA Jetson, OpenVINO, Kubernetes, GCP (Cloud Run, SageMaker)  
-- **Monitoring & CI/CD:** MLflow, GitHub Actions, Jenkins, Streamlit, Gradio  
+- **Monitoring & CI/CD:** MLflow, GitHub Actions, Jenkins, Streamlit, Gradio 
 
 --
 
